@@ -1,0 +1,15 @@
+at 0 ns idle            
+at 182465 ns sent 48         
+at 312673 ns sent 65         
+at 442881 ns sent 6C         
+at 582494 ns received 48     
+at 703298 ns sent 6F         
+at 712711 ns received 69     
+at 833506 ns sent 0D         
+at 842927 ns received 0D     
+at 1182465 ns sent 77         
+at 1312673 ns sent 6F         
+at 1442881 ns sent 72         
+at 1573090 ns sent 6C         
+at 1703298 ns sent 64         
+at 1833506 ns sent 0D         

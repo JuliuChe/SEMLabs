@@ -1,0 +1,3 @@
+DEFAULT_ARCHITECTURE atom studentVersion
+DEFAULT_FILE atom lissajous@generator_circuit_@e@b@s3/student@version.bd
+TOP_MARKER atom 1

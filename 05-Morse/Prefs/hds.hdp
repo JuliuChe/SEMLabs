@@ -1,0 +1,52 @@
+[Concat]
+Board = $HDS_PROJECT_DIR/../Board/concat
+[ModelSim]
+Board = $SCRATCH_DIR/Board
+Common = $SCRATCH_DIR/Common
+Common_test = $SCRATCH_DIR/Common_test
+Lattice = $SCRATCH_DIR/Lattice
+Memory = $SCRATCH_DIR/Memory
+Memory_test = $SCRATCH_DIR/Memory_test
+Morse = $SCRATCH_DIR/Morse
+Morse_test = $SCRATCH_DIR/Morse_test
+RS232 = $SCRATCH_DIR/RS232
+RS232_test = $SCRATCH_DIR/RS232_test
+UVM = $SCRATCH_DIR/UVM
+UVM_test = $SCRATCH_DIR/UVM_test
+[hdl]
+Board = $HDS_PROJECT_DIR/../Board/hdl
+Common = $HDS_PROJECT_DIR/../../Libs/Common/hdl
+Common_test = $HDS_PROJECT_DIR/../../Libs/Common_test/hdl
+ieee = $HDS_HOME/hdl_libs/ieee/hdl
+Lattice = $HDS_PROJECT_DIR/../../Libs/Lattice/hdl
+Memory = $HDS_PROJECT_DIR/../../Libs/Memory/hdl
+Memory_test = $HDS_PROJECT_DIR/../../Libs/Memory_test/hdl
+Morse = $HDS_PROJECT_DIR/../Morse/hdl
+Morse_test = $HDS_PROJECT_DIR/../Morse_test/hdl
+RS232 = $HDS_PROJECT_DIR/../../Libs/RS232/hdl
+RS232_test = $HDS_PROJECT_DIR/../../Libs/RS232_test/hdl
+std = $HDS_HOME/hdl_libs/std/hdl
+UVM = $HDS_PROJECT_DIR/../../Libs/UVM/hdl
+UVM_test = $HDS_PROJECT_DIR/../../Libs/UVM_test/hdl
+[hds]
+Board = $HDS_PROJECT_DIR/../Board/hds
+Common = $HDS_PROJECT_DIR/../../Libs/Common/hds
+Common_test = $HDS_PROJECT_DIR/../../Libs/Common_test/hds
+ieee = $HDS_HOME/hdl_libs/ieee/hds
+Lattice = $HDS_PROJECT_DIR/../../Libs/Lattice/hds
+Memory = $HDS_PROJECT_DIR/../../Libs/Memory/hds
+Memory_test = $HDS_PROJECT_DIR/../../Libs/Memory_test/hds
+Morse = $HDS_PROJECT_DIR/../Morse/hds
+Morse_test = $HDS_PROJECT_DIR/../Morse_test/hds
+RS232 = $HDS_PROJECT_DIR/../../Libs/RS232/hds
+RS232_test = $HDS_PROJECT_DIR/../../Libs/RS232_test/hds
+std = $HDS_HOME/hdl_libs/std/hds
+UVM = $HDS_PROJECT_DIR/../../Libs/UVM/hds
+UVM_test = $HDS_PROJECT_DIR/../../Libs/UVM_test/hds
+[hds_settings]
+design_root = Board.morse_ebs3(struct)morse_ebs3/struct.bd
+[library_type]
+ieee = standard
+std = standard
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

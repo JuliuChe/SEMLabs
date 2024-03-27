@@ -1,0 +1,12 @@
+DESIGN lissajous@generator_test
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN lissajous@generator_test
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN lissajous@generator_test
+VIEW symbol.sb
+GRAPHIC 1,0 11 0 
+DESIGN lissajous@generator_test
+VIEW symbol.sb
+GRAPHIC 1,0 12 0 

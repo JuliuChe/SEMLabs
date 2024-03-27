@@ -1,0 +1,36 @@
+DESIGN lissajous@generator_tester
+VIEW interface
+NO_GRAPHIC 0
+DESIGN lissajous@generator_tester
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN lissajous@generator_tester
+VIEW interface
+GRAPHIC 13,0 13 1 
+DESIGN lissajous@generator_tester
+VIEW interface
+GRAPHIC 659,0 18 0 
+DESIGN lissajous@generator_tester
+VIEW interface
+GRAPHIC 664,0 19 0 
+DESIGN lissajous@generator_tester
+VIEW interface
+GRAPHIC 669,0 20 0 
+DESIGN lissajous@generator_tester
+VIEW interface
+GRAPHIC 674,0 21 0 
+DESIGN lissajous@generator_tester
+VIEW interface
+GRAPHIC 679,0 22 0 
+DESIGN lissajous@generator_tester
+VIEW interface
+GRAPHIC 649,0 23 0 
+DESIGN lissajous@generator_tester
+VIEW interface
+GRAPHIC 654,0 24 0 
+DESIGN lissajous@generator_tester
+VIEW interface
+GRAPHIC 1,0 27 0 
+DESIGN lissajous@generator_tester
+VIEW interface
+GRAPHIC 1,0 28 0 

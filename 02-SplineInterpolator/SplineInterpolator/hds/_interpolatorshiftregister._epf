@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom withArray
+DEFAULT_FILE atom interpolatorShiftRegister_withArray.vhd

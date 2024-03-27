@@ -1,0 +1,30 @@
+DESIGN @d@a@c_tester
+VIEW interface
+NO_GRAPHIC 0
+DESIGN @d@a@c_tester
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN @d@a@c_tester
+VIEW interface
+GRAPHIC 13,0 13 1 
+DESIGN @d@a@c_tester
+VIEW interface
+GRAPHIC 360,0 18 0 
+DESIGN @d@a@c_tester
+VIEW interface
+GRAPHIC 375,0 19 0 
+DESIGN @d@a@c_tester
+VIEW interface
+GRAPHIC 355,0 20 0 
+DESIGN @d@a@c_tester
+VIEW interface
+GRAPHIC 365,0 21 0 
+DESIGN @d@a@c_tester
+VIEW interface
+GRAPHIC 370,0 22 0 
+DESIGN @d@a@c_tester
+VIEW interface
+GRAPHIC 1,0 25 0 
+DESIGN @d@a@c_tester
+VIEW interface
+GRAPHIC 1,0 26 0 

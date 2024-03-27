@@ -1,0 +1,49 @@
+version "8.0"
+RenoirTeamPreferences [
+(BaseTeamPreferences
+version "1.1"
+verConcat 0
+ttDGProps [
+]
+fcDGProps [
+]
+smDGProps [
+]
+asmDGProps [
+]
+bdDGProps [
+]
+syDGProps [
+]
+)
+(VersionControlTeamPreferences
+version "1.1"
+VMPlugin ""
+VMRepository "$HDS_HOME/examples/hds_scratch/hds_repository"
+VMCvsHdsRepository "$HDS_HOME/examples/hds_scratch/hds_repository/hds_vm"
+VMCvsHdlRepository "$HDS_HOME/examples/hds_scratch/hds_repository/hdl_vm"
+VMCVSmkIIHdsRepository "$HDS_HOME/examples/hds_scratch/hds_repository/hds_vm"
+VMCVSmkIIHdlRepository "$HDS_HOME/examples/hds_scratch/hds_repository"
+VMSvnHdlRepository ""
+VMDefaultView 1
+VMCurrentDesignHierarchyOnly 0
+VMUserData 1
+VMGeneratedHDL 0
+VMVerboseMode 0
+VMAlwaysEmpty 0
+VMSetTZ 1
+VMSymbol 1
+VMCurrentDesignHierarchy 0
+VMMultipleRepositoryMode 0
+VMSnapshotViewMode 0
+backupNameClashes 1
+clearCaseMaster 0
+repoViewLinkSub "/svn/"
+repoViewLinkSubWith "/viewvc/"
+)
+(CustomizeTeamPreferences
+version "1.1"
+FileTypes [
+]
+)
+]

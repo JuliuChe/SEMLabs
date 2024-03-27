@@ -1,0 +1,519 @@
+DESIGN sine@gen
+VIEW struct.bd
+NO_GRAPHIC 0
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 84,0 9 0 
+DESIGN sine@gen
+VIEW struct.bd
+NO_GRAPHIC 12
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 0,0 16 2 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1,0 19 0 
+DESIGN sine@gen
+VIEW struct.bd
+NO_GRAPHIC 19
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1701,0 24 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1709,0 25 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1717,0 26 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1725,0 27 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2579,0 28 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2447,0 29 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1658,0 30 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 726,0 31 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1277,0 32 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1285,0 33 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1293,0 34 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1301,0 35 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1102,0 36 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2227,0 37 0 
+DESIGN sine@gen
+VIEW struct.bd
+NO_GRAPHIC 38
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 887,0 40 0 
+DESIGN sine@gen
+VIEW struct.bd
+NO_GRAPHIC 42
+LIBRARY SplineInterpolator
+DESIGN interpolator@calculate@polynom
+VIEW student@version
+GRAPHIC 3829,0 44 0 
+DESIGN interpolator@calculate@polynom
+VIEW symbol.sb
+GRAPHIC 14,0 45 1 
+DESIGN interpolator@calculate@polynom
+VIEW symbol.sb
+GRAPHIC 83,0 51 0 
+DESIGN interpolator@calculate@polynom
+VIEW symbol.sb
+GRAPHIC 89,0 52 0 
+DESIGN interpolator@calculate@polynom
+VIEW symbol.sb
+GRAPHIC 94,0 53 0 
+DESIGN interpolator@calculate@polynom
+VIEW symbol.sb
+GRAPHIC 104,0 54 0 
+DESIGN interpolator@calculate@polynom
+VIEW symbol.sb
+GRAPHIC 109,0 55 0 
+DESIGN interpolator@calculate@polynom
+VIEW symbol.sb
+GRAPHIC 125,0 56 0 
+DESIGN interpolator@calculate@polynom
+VIEW symbol.sb
+GRAPHIC 130,0 57 0 
+DESIGN interpolator@calculate@polynom
+VIEW symbol.sb
+GRAPHIC 135,0 58 0 
+DESIGN interpolator@calculate@polynom
+VIEW symbol.sb
+GRAPHIC 141,0 59 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3784,0 62 0 
+DESIGN interpolator@coefficients
+VIEW symbol.sb
+GRAPHIC 14,0 63 1 
+DESIGN interpolator@coefficients
+VIEW symbol.sb
+GRAPHIC 104,0 68 0 
+DESIGN interpolator@coefficients
+VIEW symbol.sb
+GRAPHIC 109,0 69 0 
+DESIGN interpolator@coefficients
+VIEW symbol.sb
+GRAPHIC 114,0 70 0 
+DESIGN interpolator@coefficients
+VIEW symbol.sb
+GRAPHIC 119,0 71 0 
+DESIGN interpolator@coefficients
+VIEW symbol.sb
+GRAPHIC 125,0 72 0 
+DESIGN interpolator@coefficients
+VIEW symbol.sb
+GRAPHIC 130,0 73 0 
+DESIGN interpolator@coefficients
+VIEW symbol.sb
+GRAPHIC 140,0 74 0 
+DESIGN interpolator@coefficients
+VIEW symbol.sb
+GRAPHIC 135,0 75 0 
+DESIGN interpolator@coefficients
+VIEW symbol.sb
+GRAPHIC 149,0 76 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3739,0 79 0 
+DESIGN interpolator@shift@register
+VIEW symbol.sb
+GRAPHIC 14,0 80 1 
+DESIGN interpolator@shift@register
+VIEW symbol.sb
+GRAPHIC 83,0 84 0 
+DESIGN interpolator@shift@register
+VIEW symbol.sb
+GRAPHIC 89,0 85 0 
+DESIGN interpolator@shift@register
+VIEW symbol.sb
+GRAPHIC 94,0 86 0 
+DESIGN interpolator@shift@register
+VIEW symbol.sb
+GRAPHIC 99,0 87 0 
+DESIGN interpolator@shift@register
+VIEW symbol.sb
+GRAPHIC 104,0 88 0 
+DESIGN interpolator@shift@register
+VIEW symbol.sb
+GRAPHIC 109,0 89 0 
+DESIGN interpolator@shift@register
+VIEW symbol.sb
+GRAPHIC 114,0 90 0 
+DESIGN interpolator@shift@register
+VIEW symbol.sb
+GRAPHIC 119,0 91 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3698,0 94 0 
+DESIGN interpolator@trigger
+VIEW symbol.sb
+GRAPHIC 14,0 95 1 
+DESIGN interpolator@trigger
+VIEW symbol.sb
+GRAPHIC 57,0 99 0 
+DESIGN interpolator@trigger
+VIEW symbol.sb
+GRAPHIC 83,0 100 0 
+DESIGN interpolator@trigger
+VIEW symbol.sb
+GRAPHIC 89,0 101 0 
+DESIGN interpolator@trigger
+VIEW symbol.sb
+GRAPHIC 94,0 102 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3846,0 105 0 
+DESIGN offset@to@unsigned
+VIEW symbol.sb
+GRAPHIC 14,0 106 1 
+DESIGN offset@to@unsigned
+VIEW symbol.sb
+GRAPHIC 57,0 110 0 
+DESIGN offset@to@unsigned
+VIEW symbol.sb
+GRAPHIC 83,0 111 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3584,0 114 0 
+DESIGN resizer
+VIEW symbol.sb
+GRAPHIC 14,0 115 1 
+DESIGN resizer
+VIEW symbol.sb
+GRAPHIC 57,0 120 0 
+DESIGN resizer
+VIEW symbol.sb
+GRAPHIC 83,0 121 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3601,0 124 0 
+DESIGN sine@table
+VIEW symbol.sb
+GRAPHIC 14,0 125 1 
+DESIGN sine@table
+VIEW symbol.sb
+GRAPHIC 57,0 131 0 
+DESIGN sine@table
+VIEW symbol.sb
+GRAPHIC 83,0 132 0 
+LIBRARY WaveformGenerator
+DESIGN sawtooth@gen
+VIEW student@version
+GRAPHIC 3673,0 135 0 
+DESIGN sawtooth@gen
+VIEW symbol.sb
+GRAPHIC 14,0 136 1 
+DESIGN sawtooth@gen
+VIEW symbol.sb
+GRAPHIC 57,0 140 0 
+DESIGN sawtooth@gen
+VIEW symbol.sb
+GRAPHIC 52,0 141 0 
+DESIGN sawtooth@gen
+VIEW symbol.sb
+GRAPHIC 76,0 142 0 
+DESIGN sawtooth@gen
+VIEW symbol.sb
+GRAPHIC 83,0 143 0 
+DESIGN sawtooth@gen
+VIEW symbol.sb
+GRAPHIC 89,0 144 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2908,0 147 0 
+DESIGN sawtooth@to@square
+VIEW symbol.sb
+GRAPHIC 14,0 148 1 
+DESIGN sawtooth@to@square
+VIEW symbol.sb
+GRAPHIC 57,0 152 0 
+DESIGN sawtooth@to@square
+VIEW symbol.sb
+GRAPHIC 83,0 153 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2925,0 156 0 
+DESIGN sawtooth@to@triangle
+VIEW symbol.sb
+GRAPHIC 14,0 157 1 
+DESIGN sawtooth@to@triangle
+VIEW symbol.sb
+GRAPHIC 57,0 161 0 
+DESIGN sawtooth@to@triangle
+VIEW symbol.sb
+GRAPHIC 83,0 162 0 
+LIBRARY SplineInterpolator
+DESIGN sine@gen
+VIEW struct.bd
+NO_GRAPHIC 165
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3829,0 168 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3784,0 169 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3739,0 170 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3698,0 171 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3846,0 172 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3584,0 173 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3673,0 174 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2908,0 175 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2925,0 176 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3601,0 177 0 
+DESIGN sine@gen
+VIEW struct.bd
+NO_GRAPHIC 180
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2375,0 183 0 
+DESIGN sine@gen
+VIEW struct.bd
+NO_GRAPHIC 185
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2562,0 186 0 
+DESIGN sine@gen
+VIEW struct.bd
+NO_GRAPHIC 188
+DESIGN sine@gen
+VIEW struct.bd
+NO_GRAPHIC 189
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3829,0 191 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3836,0 192 1 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1814,0 198 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1822,0 199 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1830,0 200 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1727,0 201 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2219,0 202 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1719,0 203 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1711,0 204 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1703,0 205 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2394,0 206 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3784,0 208 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3791,0 209 1 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1279,0 214 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1287,0 215 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1295,0 216 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1303,0 217 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1703,0 218 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1711,0 219 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1719,0 220 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1727,0 221 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2571,0 222 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3739,0 224 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3746,0 225 1 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1228,0 229 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1220,0 230 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1106,0 231 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1096,0 232 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1279,0 233 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1287,0 234 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1295,0 235 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1303,0 236 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3698,0 238 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3705,0 239 1 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1106,0 243 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 985,0 244 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 993,0 245 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2386,0 246 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3846,0 248 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3853,0 249 1 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 562,0 253 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2219,0 254 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3584,0 256 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3591,0 257 1 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 601,0 262 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 414,0 263 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3601,0 265 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3608,0 266 1 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 1096,0 272 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 472,0 273 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3673,0 275 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 3680,0 276 1 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 414,0 280 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 15,0 281 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 237,0 282 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 781,0 283 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2449,0 284 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2908,0 286 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2915,0 287 1 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 480,0 291 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 887,0 292 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2925,0 294 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 2932,0 295 1 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 424,0 299 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 858,0 300 0 
+DESIGN sine@gen
+VIEW struct.bd
+GRAPHIC 887,0 304 0 
+DESIGN sine@gen
+VIEW struct.bd
+NO_GRAPHIC 306

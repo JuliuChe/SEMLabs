@@ -1,0 +1,172 @@
+DESIGN @d@a@c_tb
+VIEW struct.bd
+NO_GRAPHIC 0
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 142,0 9 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+NO_GRAPHIC 12
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 0,0 17 2 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1,0 20 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+NO_GRAPHIC 20
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 53,0 26 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1091,0 27 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1081,0 28 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 362,0 29 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 45,0 30 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 364,0 31 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+NO_GRAPHIC 32
+DESIGN @d@a@c_tb
+VIEW struct.bd
+NO_GRAPHIC 33
+LIBRARY DigitalToAnalogConverter
+DESIGN @d@a@c
+VIEW student@version_05_@decale
+GRAPHIC 1298,0 35 0 
+DESIGN @d@a@c
+VIEW symbol.sb
+GRAPHIC 14,0 36 1 
+DESIGN @d@a@c
+VIEW symbol.sb
+GRAPHIC 67,0 40 0 
+DESIGN @d@a@c
+VIEW symbol.sb
+GRAPHIC 57,0 41 0 
+DESIGN @d@a@c
+VIEW symbol.sb
+GRAPHIC 52,0 42 0 
+DESIGN @d@a@c
+VIEW symbol.sb
+GRAPHIC 76,0 43 0 
+LIBRARY DigitalToAnalogConverter_test
+DESIGN @d@a@c_tester
+VIEW test
+GRAPHIC 421,0 46 0 
+DESIGN @d@a@c_tester
+VIEW interface
+GRAPHIC 14,0 47 1 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1083,0 52 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 366,0 53 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 55,0 54 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 63,0 55 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 47,0 56 0 
+LIBRARY WaveformGenerator
+DESIGN lowpass
+VIEW student@version
+GRAPHIC 1056,0 59 0 
+DESIGN lowpass
+VIEW symbol.sb
+GRAPHIC 14,0 60 1 
+DESIGN lowpass
+VIEW symbol.sb
+GRAPHIC 57,0 65 0 
+DESIGN lowpass
+VIEW symbol.sb
+GRAPHIC 52,0 66 0 
+DESIGN lowpass
+VIEW symbol.sb
+GRAPHIC 76,0 67 0 
+DESIGN lowpass
+VIEW symbol.sb
+GRAPHIC 83,0 68 0 
+LIBRARY DigitalToAnalogConverter_test
+DESIGN @d@a@c_tb
+VIEW struct.bd
+NO_GRAPHIC 71
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1298,0 74 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 421,0 75 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1056,0 76 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+NO_GRAPHIC 79
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1099,0 82 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+NO_GRAPHIC 84
+DESIGN @d@a@c_tb
+VIEW struct.bd
+NO_GRAPHIC 85
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1298,0 87 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1305,0 88 1 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 366,0 92 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 63,0 93 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 55,0 94 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 47,0 95 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 421,0 97 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 428,0 98 1 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1056,0 109 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1063,0 110 1 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1083,0 115 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1073,0 116 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1065,0 117 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+GRAPHIC 1093,0 118 0 
+DESIGN @d@a@c_tb
+VIEW struct.bd
+NO_GRAPHIC 121

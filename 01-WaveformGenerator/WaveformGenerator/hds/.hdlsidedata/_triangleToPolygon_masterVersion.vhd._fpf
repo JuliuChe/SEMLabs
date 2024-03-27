@@ -1,0 +1,14 @@
+DIALECT atom VHDL_2008
+INCLUDE list {
+ DEFAULT atom 1
+}
+ARCHITECTURES list {
+ {triangletopolygon masterversion} list {
+  SYNTHESIS_FILE list {
+   IS_ACTIVE atom 0
+  }
+  SIMULATION_FILE list {
+   IS_COPIED atom 0
+  }
+ }
+}

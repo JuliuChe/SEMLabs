@@ -1,0 +1,74 @@
+version "1.1"
+HDSFlow (HDSFlow
+TaskName "AutoCheck"
+bitmap "$HDS_HOME\\resources\\bitmaps\\tools/tool_autocheck.bmp"
+hasBitmap 1
+tooltip "Run AutoCheck prepare and invoke"
+taskSettings [
+]
+PreferedTasks [
+]
+onShortcutBar 0
+onPulldownMenu 0
+onToolbar 0
+enabled 1
+hierDepth 1
+subTasks [
+(HDSTool
+hasAssociatedFileExt 0
+associatedFileExt ""
+TaskName "Questa CDC/Formal Prepare Data"
+bitmap "$HDS_HOME\\resources\\bitmaps\\tools/tool_autocheck.bmp"
+hasBitmap 1
+tooltip "Generate AutoCheck Compilation Scripts"
+taskSettings [
+"InternalTaskSetting"
+(SettingsMap
+settingsMap [
+"ToolName"
+"AutoCheck"
+"additionalToolArgs"
+""
+"captureOutput"
+"0"
+"customPrompt"
+""
+"initialDir"
+""
+"promptForRunSettings"
+"0"
+"runnableObject"
+"QuestaSimCompiler"
+"runnableObjectType"
+"tcl_plugin"
+"useViewSpecific"
+"0"
+]
+)
+]
+PreferedTasks [
+]
+onShortcutBar 0
+onPulldownMenu 0
+onToolbar 0
+enabled 1
+hierDepth 1
+)
+(HDSTaskRef
+TaskName "AutoCheck Invoke"
+bitmap ""
+hasBitmap 1
+tooltip ""
+taskSettings [
+]
+PreferedTasks [
+]
+onShortcutBar 0
+onPulldownMenu 0
+onToolbar 0
+enabled 1
+hierDepth 1
+reffedTaskName "USER:AutoCheck Invoke"
+)
+]
+)

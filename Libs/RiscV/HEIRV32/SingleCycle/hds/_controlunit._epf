@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom masterVersion
+DEFAULT_FILE atom control@unit/master@version.bd

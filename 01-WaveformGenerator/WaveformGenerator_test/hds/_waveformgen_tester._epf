@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom test
+DEFAULT_FILE atom waveformGen_tester_test.vhd

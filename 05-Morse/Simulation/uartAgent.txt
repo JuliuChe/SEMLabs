@@ -1,0 +1,19 @@
+info    01      startup idle
+duration 100 ns
+
+info    02      write and readback baud rate register
+duration 100 ns
+
+info    03      write user baudrate
+duration 100 ns
+baudrate 1E6
+
+info    04      send word to UART
+duration 10 us
+
+info    05      receive word from UART
+duration 10 us
+send    any
+
+info    06      read status and data word from UART
+duration 100 ns
