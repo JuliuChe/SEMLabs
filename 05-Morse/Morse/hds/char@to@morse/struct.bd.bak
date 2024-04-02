@@ -168,7 +168,7 @@ value "LAPTOP-J400VU4F"
 )
 (vvPair
 variable "graphical_source_time"
-value "14:53:32"
+value "14:53:30"
 )
 (vvPair
 variable "group"
@@ -268,7 +268,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "14:53:32"
+value "14:53:30"
 )
 (vvPair
 variable "unit"

@@ -17,7 +17,7 @@ libraryRefs [
 ]
 )
 version "27.1"
-appVersion "2019.2 (Build 5)"
+appVersion "2023.4 Built on 6 Oct 2023 at 01:57:26"
 model (Symbol
 commonDM (CommonDM
 ldm (LogicalDM
@@ -477,23 +477,23 @@ value " "
 )
 (vvPair
 variable "HDLDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hdl"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds\\char@to@morse\\symbol.sb.info"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds\\char@to@morse\\symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds\\char@to@morse\\symbol.sb.user"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds\\char@to@morse\\symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds"
 )
 (vvPair
 variable "appl"
@@ -517,27 +517,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds\\char@to@morse"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds\\char@to@morse"
 )
 (vvPair
 variable "d_logical"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds\\charToMorse"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds\\charToMorse"
 )
 (vvPair
 variable "date"
-value "28.04.2023"
+value "01.04.2024"
 )
 (vvPair
 variable "day"
-value "ven."
+value "lun."
 )
 (vvPair
 variable "day_long"
-value "vendredi"
+value "lundi"
 )
 (vvPair
 variable "dd"
-value "28"
+value "01"
 )
 (vvPair
 variable "designName"
@@ -565,11 +565,11 @@ value "symbol"
 )
 (vvPair
 variable "graphical_source_author"
-value "axel.amand"
+value "Julie"
 )
 (vvPair
 variable "graphical_source_date"
-value "28.04.2023"
+value "01.04.2024"
 )
 (vvPair
 variable "graphical_source_group"
@@ -577,11 +577,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "WE7860"
+value "LAPTOP-J400VU4F"
 )
 (vvPair
 variable "graphical_source_time"
-value "14:49:52"
+value "14:53:32"
 )
 (vvPair
 variable "group"
@@ -589,7 +589,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "WE7860"
+value "LAPTOP-J400VU4F"
 )
 (vvPair
 variable "language"
@@ -633,11 +633,11 @@ value "avril"
 )
 (vvPair
 variable "p"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds\\char@to@morse\\symbol.sb"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds\\char@to@morse\\symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds\\charToMorse\\symbol.sb"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds\\charToMorse\\symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -692,6 +692,10 @@ variable "task_PrecisionRTLPath"
 value "<TBD>"
 )
 (vvPair
+variable "task_QuestaCDCFormalPath"
+value "$QHOME/bin"
+)
+(vvPair
 variable "task_QuestaSimPath"
 value "<TBD>"
 )
@@ -713,7 +717,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "14:49:52"
+value "14:53:32"
 )
 (vvPair
 variable "unit"
@@ -721,11 +725,11 @@ value "charToMorse"
 )
 (vvPair
 variable "user"
-value "axel.amand"
+value "Julie"
 )
 (vvPair
 variable "version"
-value "2019.2 (Build 5)"
+value "2023.4 Built on 6 Oct 2023 at 01:57:26"
 )
 (vvPair
 variable "view"
@@ -733,11 +737,11 @@ value "symbol"
 )
 (vvPair
 variable "year"
-value "2023"
+value "2024"
 )
 (vvPair
 variable "yy"
-value "23"
+value "24"
 )
 ]
 )
@@ -1715,7 +1719,7 @@ xt "0,6000,0,6000"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 818,0
+lastUid 887,0
 okToSyncOnLoad 1
 OkToSyncGenericsOnLoad 1
 activeModelName "Symbol"

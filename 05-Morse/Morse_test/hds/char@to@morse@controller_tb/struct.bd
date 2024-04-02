@@ -77,7 +77,7 @@ libraryRefs [
 ]
 )
 version "32.1"
-appVersion "2019.2 (Build 5)"
+appVersion "2023.4 Built on 6 Oct 2023 at 01:57:26"
 noEmbeddedEditors 1
 model (BlockDiag
 VExpander (VariableExpander
@@ -88,23 +88,23 @@ value " "
 )
 (vvPair
 variable "HDLDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse_test\\hdl"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse_test\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse_test\\hds"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse_test\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse_test\\hds\\char@to@morse@controller_tb\\struct.bd.info"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse_test\\hds\\char@to@morse@controller_tb\\struct.bd.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse_test\\hds\\char@to@morse@controller_tb\\struct.bd.user"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse_test\\hds\\char@to@morse@controller_tb\\struct.bd.user"
 )
 (vvPair
 variable "SourceDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse_test\\hds"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse_test\\hds"
 )
 (vvPair
 variable "appl"
@@ -128,27 +128,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse_test\\hds\\char@to@morse@controller_tb"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse_test\\hds\\char@to@morse@controller_tb"
 )
 (vvPair
 variable "d_logical"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse_test\\hds\\charToMorseController_tb"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse_test\\hds\\charToMorseController_tb"
 )
 (vvPair
 variable "date"
-value "28.04.2023"
+value "02.04.2024"
 )
 (vvPair
 variable "day"
-value "ven."
+value "mar."
 )
 (vvPair
 variable "day_long"
-value "vendredi"
+value "mardi"
 )
 (vvPair
 variable "dd"
-value "28"
+value "02"
 )
 (vvPair
 variable "designName"
@@ -176,11 +176,11 @@ value "struct"
 )
 (vvPair
 variable "graphical_source_author"
-value "axel.amand"
+value "Julie"
 )
 (vvPair
 variable "graphical_source_date"
-value "28.04.2023"
+value "02.04.2024"
 )
 (vvPair
 variable "graphical_source_group"
@@ -188,11 +188,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "WE7860"
+value "LAPTOP-J400VU4F"
 )
 (vvPair
 variable "graphical_source_time"
-value "14:50:43"
+value "01:53:40"
 )
 (vvPair
 variable "group"
@@ -200,7 +200,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "WE7860"
+value "LAPTOP-J400VU4F"
 )
 (vvPair
 variable "language"
@@ -240,11 +240,11 @@ value "avril"
 )
 (vvPair
 variable "p"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse_test\\hds\\char@to@morse@controller_tb\\struct.bd"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse_test\\hds\\char@to@morse@controller_tb\\struct.bd"
 )
 (vvPair
 variable "p_logical"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse_test\\hds\\charToMorseController_tb\\struct.bd"
+value "C:\\DocHES\\SEM-Sem6\\SEMLabs\\05-Morse\\Prefs\\..\\Morse_test\\hds\\charToMorseController_tb\\struct.bd"
 )
 (vvPair
 variable "package_name"
@@ -299,6 +299,10 @@ variable "task_PrecisionRTLPath"
 value "<TBD>"
 )
 (vvPair
+variable "task_QuestaCDCFormalPath"
+value "$QHOME/bin"
+)
+(vvPair
 variable "task_QuestaSimPath"
 value "<TBD>"
 )
@@ -320,7 +324,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "14:50:43"
+value "01:53:40"
 )
 (vvPair
 variable "unit"
@@ -328,11 +332,11 @@ value "charToMorseController_tb"
 )
 (vvPair
 variable "user"
-value "axel.amand"
+value "Julie"
 )
 (vvPair
 variable "version"
-value "2019.2 (Build 5)"
+value "2023.4 Built on 6 Oct 2023 at 01:57:26"
 )
 (vvPair
 variable "view"
@@ -340,11 +344,11 @@ value "struct"
 )
 (vvPair
 variable "year"
-value "2023"
+value "2024"
 )
 (vvPair
 variable "yy"
-value "23"
+value "24"
 )
 ]
 )
@@ -679,8 +683,7 @@ uid 2557,0
 va (VaSet
 )
 xt "2000,22800,19500,24000"
-st "SIGNAL reset        : std_ulogic
-"
+st "SIGNAL reset        : std_ulogic"
 )
 )
 *13 (Net
@@ -696,8 +699,7 @@ uid 2565,0
 va (VaSet
 )
 xt "2000,18000,19600,19200"
-st "SIGNAL clock        : std_ulogic
-"
+st "SIGNAL clock        : std_ulogic"
 )
 )
 *14 (SaComponent
@@ -1118,8 +1120,7 @@ uid 3089,0
 va (VaSet
 )
 xt "2000,21600,20600,22800"
-st "SIGNAL readChar     : std_ulogic
-"
+st "SIGNAL readChar     : std_ulogic"
 )
 )
 *28 (Net
@@ -1135,8 +1136,7 @@ uid 3097,0
 va (VaSet
 )
 xt "2000,16800,21900,18000"
-st "SIGNAL charNotReady : std_ulogic
-"
+st "SIGNAL charNotReady : std_ulogic"
 )
 )
 *29 (SaComponent
@@ -1414,8 +1414,7 @@ uid 3134,0
 va (VaSet
 )
 xt "2000,24000,21200,25200"
-st "SIGNAL startCounter : std_ulogic
-"
+st "SIGNAL startCounter : std_ulogic"
 )
 )
 *39 (Net
@@ -1432,8 +1431,7 @@ uid 3140,0
 va (VaSet
 )
 xt "2000,25200,34400,26400"
-st "SIGNAL unitNb       : unsigned(unitCountBitNb-1 downto 0)
-"
+st "SIGNAL unitNb       : unsigned(unitCountBitNb-1 downto 0)"
 )
 )
 *40 (Net
@@ -1449,8 +1447,7 @@ uid 3146,0
 va (VaSet
 )
 xt "2000,19200,19600,20400"
-st "SIGNAL done         : std_ulogic
-"
+st "SIGNAL done         : std_ulogic"
 )
 )
 *41 (Net
@@ -1466,8 +1463,7 @@ uid 3168,0
 va (VaSet
 )
 xt "2000,20400,21000,21600"
-st "SIGNAL morseOut     : std_ulogic
-"
+st "SIGNAL morseOut     : std_ulogic"
 )
 )
 *42 (Net
@@ -1484,8 +1480,7 @@ uid 3176,0
 va (VaSet
 )
 xt "2000,15600,39800,16800"
-st "SIGNAL char         : std_ulogic_vector(characterBitNb-1 DOWNTO 0)
-"
+st "SIGNAL char         : std_ulogic_vector(characterBitNb-1 DOWNTO 0)"
 )
 )
 *43 (Blk
@@ -2106,8 +2101,8 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-8,-8,1928,1048"
-viewArea "-1603,-1603,140959,75855"
+windowSize "0,0,1921,1056"
+viewArea "-1600,-1600,140612,74000"
 cachedDiagramExtent "0,0,111000,74000"
 pageSetupInfo (PageSetupInfo
 ptrCmd "\\\\ipp://ipp.hevs.ch\\PREA309_HPLJP3005DN,winspool,"
@@ -2133,7 +2128,7 @@ boundaryWidth 0
 )
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 3613,0
+lastUid 3691,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

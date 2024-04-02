@@ -1,0 +1,33 @@
+DESIGN char@to@morse@controller_tester
+VIEW interface
+NO_GRAPHIC 0
+DESIGN char@to@morse@controller_tester
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN char@to@morse@controller_tester
+VIEW interface
+GRAPHIC 13,0 13 1 
+DESIGN char@to@morse@controller_tester
+VIEW interface
+GRAPHIC 586,0 18 0 
+DESIGN char@to@morse@controller_tester
+VIEW interface
+GRAPHIC 591,0 19 0 
+DESIGN char@to@morse@controller_tester
+VIEW interface
+GRAPHIC 571,0 20 0 
+DESIGN char@to@morse@controller_tester
+VIEW interface
+GRAPHIC 576,0 21 0 
+DESIGN char@to@morse@controller_tester
+VIEW interface
+GRAPHIC 581,0 22 0 
+DESIGN char@to@morse@controller_tester
+VIEW interface
+GRAPHIC 596,0 23 0 
+DESIGN char@to@morse@controller_tester
+VIEW interface
+GRAPHIC 1,0 26 0 
+DESIGN char@to@morse@controller_tester
+VIEW interface
+GRAPHIC 1,0 27 0 

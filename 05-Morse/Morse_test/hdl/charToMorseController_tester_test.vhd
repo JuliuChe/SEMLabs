@@ -9,7 +9,7 @@ ARCHITECTURE test OF charToMorseController_tester IS
   signal sClock: std_uLogic := '1';
   signal sReset: std_uLogic := '1';
                                                               -- character input
-  constant textToSend : string := "tea time";
+  constant textToSend : string := "abcd efgh ijkl mnop qrst uvwx yz12 3456 7890";
   constant charInputDelay : time := 200 us;
   signal writePointer, readPointer : integer := 0;
   signal fifoDataAvailable: std_uLogic := '0';
