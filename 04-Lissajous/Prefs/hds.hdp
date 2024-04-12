@@ -38,7 +38,7 @@ std = $HDS_HOME/hdl_libs/std/hds
 WaveformGenerator = $HDS_PROJECT_DIR/../../01-WaveformGenerator/WaveformGenerator/hds
 WaveformGenerator_test = $HDS_PROJECT_DIR/../../01-WaveformGenerator/WaveformGenerator_test/hds
 [hds_settings]
-design_root = Board.lissajousGenerator_circuit_EBS3(masterVersion)lissajous@generator_circuit_@e@b@s3/master@version.bd
+design_root = Board.lissajousGenerator_circuit_EBS2(studentVersion)lissajous@generator_circuit_@e@b@s2/student@version.bd
 [library_type]
 ieee = standard
 std = standard

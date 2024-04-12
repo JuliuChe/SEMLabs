@@ -51,7 +51,7 @@ VIEW struct.bd
 NO_GRAPHIC 36
 LIBRARY Morse
 DESIGN char@to@morse@controller
-VIEW student@version
+VIEW fsm
 GRAPHIC 3079,0 38 0 
 DESIGN char@to@morse@controller
 VIEW symbol.sb

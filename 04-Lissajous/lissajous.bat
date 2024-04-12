@@ -16,8 +16,8 @@ set VERBOSE=1
 set REQUIRE_LIBS=0
 set REQUIRE_HDS=1
 set REQUIRE_MODELSIM=1
-set REQUIRE_ISE=0
-set REQUIRE_DIAMOND=1
+set REQUIRE_ISE=1
+set REQUIRE_DIAMOND=0
 
 :: Set project name
 set design_name=%~n0

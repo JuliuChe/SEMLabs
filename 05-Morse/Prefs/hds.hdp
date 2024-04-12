@@ -1,5 +1,6 @@
 [Concat]
 Board = $HDS_PROJECT_DIR/../Board/concat
+Morse_test = $HDS_PROJECT_DIR/../Morse_test/concat
 [ModelSim]
 Board = $SCRATCH_DIR/Board
 Common = $SCRATCH_DIR/Common
@@ -44,7 +45,7 @@ std = $HDS_HOME/hdl_libs/std/hds
 UVM = $HDS_PROJECT_DIR/../../Libs/UVM/hds
 UVM_test = $HDS_PROJECT_DIR/../../Libs/UVM_test/hds
 [hds_settings]
-design_root = Board.morse_ebs3(struct)morse_ebs3/struct.bd
+design_root = Board.morse_ebs2(struct)morse_ebs2/struct.bd
 [library_type]
 ieee = standard
 std = standard

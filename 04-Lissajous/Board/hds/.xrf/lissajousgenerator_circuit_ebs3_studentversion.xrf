@@ -1,0 +1,223 @@
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+NO_GRAPHIC 0
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 41,0 9 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+NO_GRAPHIC 12
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 0,0 17 2 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 760,0 22 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 744,0 23 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 758,0 24 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 750,0 25 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 764,0 26 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 817,0 27 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+NO_GRAPHIC 28
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+NO_GRAPHIC 29
+LIBRARY Board
+DESIGN @d@f@f
+VIEW sim
+GRAPHIC 585,0 31 0 
+DESIGN @d@f@f
+VIEW symbol.sb
+GRAPHIC 57,0 33 0 
+DESIGN @d@f@f
+VIEW symbol.sb
+GRAPHIC 63,0 34 0 
+DESIGN @d@f@f
+VIEW symbol.sb
+GRAPHIC 51,0 35 0 
+DESIGN @d@f@f
+VIEW symbol.sb
+GRAPHIC 69,0 36 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 519,0 39 0 
+DESIGN inverter@in
+VIEW symbol.sb
+GRAPHIC 16,0 41 0 
+DESIGN inverter@in
+VIEW symbol.sb
+GRAPHIC 22,0 42 0 
+LIBRARY Lattice
+DESIGN pll
+VIEW rtl
+GRAPHIC 539,0 45 0 
+DESIGN pll
+VIEW rtl
+GRAPHIC 195,0 47 0 
+DESIGN pll
+VIEW rtl
+GRAPHIC 86,0 48 0 
+DESIGN pll
+VIEW rtl
+GRAPHIC 81,0 49 0 
+DESIGN pll
+VIEW rtl
+GRAPHIC 76,0 50 0 
+DESIGN pll
+VIEW rtl
+GRAPHIC 61,0 51 0 
+DESIGN pll
+VIEW rtl
+GRAPHIC 66,0 52 0 
+DESIGN pll
+VIEW rtl
+GRAPHIC 56,0 53 0 
+DESIGN pll
+VIEW rtl
+GRAPHIC 51,0 54 0 
+DESIGN pll
+VIEW rtl
+GRAPHIC 91,0 55 0 
+LIBRARY Lissajous
+DESIGN lissajous@generator
+VIEW struct
+GRAPHIC 631,0 58 0 
+DESIGN lissajous@generator
+VIEW symbol.sb
+GRAPHIC 14,0 59 1 
+DESIGN lissajous@generator
+VIEW symbol.sb
+GRAPHIC 52,0 66 0 
+DESIGN lissajous@generator
+VIEW symbol.sb
+GRAPHIC 428,0 67 0 
+DESIGN lissajous@generator
+VIEW symbol.sb
+GRAPHIC 88,0 68 0 
+DESIGN lissajous@generator
+VIEW symbol.sb
+GRAPHIC 93,0 69 0 
+DESIGN lissajous@generator
+VIEW symbol.sb
+GRAPHIC 98,0 70 0 
+LIBRARY Board
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+NO_GRAPHIC 73
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 585,0 76 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 519,0 77 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 631,0 78 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 539,0 79 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+NO_GRAPHIC 82
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 510,0 85 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+NO_GRAPHIC 87
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 501,0 88 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+NO_GRAPHIC 90
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+NO_GRAPHIC 91
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 585,0 93 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 734,0 95 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 710,0 96 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 696,0 97 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 702,0 98 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 519,0 100 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 718,0 102 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 710,0 103 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 611,0 105 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 702,0 107 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 722,0 108 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 539,0 110 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 730,0 112 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 678,0 113 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 692,0 114 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 686,0 115 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 740,0 116 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 631,0 122 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 638,0 123 1 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 740,0 130 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 722,0 131 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 714,0 132 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 706,0 133 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+GRAPHIC 726,0 134 0 
+DESIGN lissajous@generator_circuit_@e@b@s3
+VIEW student@version.bd
+NO_GRAPHIC 137

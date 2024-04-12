@@ -1,0 +1,243 @@
+DESIGN morse_ebs2
+VIEW struct.bd
+NO_GRAPHIC 0
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 84,0 9 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+NO_GRAPHIC 12
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 0,0 16 2 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 1,0 19 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+NO_GRAPHIC 19
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2598,0 27 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2552,0 28 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2478,0 29 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2476,0 30 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 897,0 31 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+NO_GRAPHIC 32
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2003,0 34 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+NO_GRAPHIC 36
+LIBRARY Board
+DESIGN @d@f@f
+VIEW sim
+GRAPHIC 1969,0 38 0 
+DESIGN @d@f@f
+VIEW symbol.sb
+GRAPHIC 57,0 40 0 
+DESIGN @d@f@f
+VIEW symbol.sb
+GRAPHIC 63,0 41 0 
+DESIGN @d@f@f
+VIEW symbol.sb
+GRAPHIC 51,0 42 0 
+DESIGN @d@f@f
+VIEW symbol.sb
+GRAPHIC 69,0 43 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2378,0 46 0 
+DESIGN inverter@in
+VIEW symbol.sb
+GRAPHIC 16,0 48 0 
+DESIGN inverter@in
+VIEW symbol.sb
+GRAPHIC 22,0 49 0 
+LIBRARY Morse
+DESIGN morse@decoder
+VIEW struct
+GRAPHIC 2661,0 52 0 
+DESIGN morse@decoder
+VIEW symbol.sb
+GRAPHIC 14,0 53 1 
+DESIGN morse@decoder
+VIEW symbol.sb
+GRAPHIC 204,0 62 0 
+DESIGN morse@decoder
+VIEW symbol.sb
+GRAPHIC 310,0 63 0 
+DESIGN morse@decoder
+VIEW symbol.sb
+GRAPHIC 315,0 64 0 
+DESIGN morse@decoder
+VIEW symbol.sb
+GRAPHIC 348,0 65 0 
+DESIGN morse@decoder
+VIEW symbol.sb
+GRAPHIC 624,0 66 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2160,0 69 0 
+DESIGN morse@encoder
+VIEW symbol.sb
+GRAPHIC 14,0 70 1 
+DESIGN morse@encoder
+VIEW symbol.sb
+GRAPHIC 204,0 78 0 
+DESIGN morse@encoder
+VIEW symbol.sb
+GRAPHIC 310,0 79 0 
+DESIGN morse@encoder
+VIEW symbol.sb
+GRAPHIC 315,0 80 0 
+DESIGN morse@encoder
+VIEW symbol.sb
+GRAPHIC 671,0 81 0 
+LIBRARY Board
+DESIGN morse_ebs2
+VIEW struct.bd
+NO_GRAPHIC 84
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 1969,0 87 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2378,0 88 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2661,0 89 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2160,0 90 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+NO_GRAPHIC 93
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2369,0 96 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+NO_GRAPHIC 98
+DESIGN morse_ebs2
+VIEW struct.bd
+NO_GRAPHIC 99
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 1969,0 101 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 1995,0 103 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2043,0 104 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2007,0 105 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2003,0 106 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2398,0 108 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2468,0 110 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2444,0 111 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2452,0 112 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2458,0 113 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2492,0 115 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2518,0 117 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2524,0 118 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2532,0 119 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2548,0 120 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2378,0 122 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2448,0 124 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2444,0 125 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2424,0 127 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2458,0 129 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2484,0 130 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2661,0 132 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2668,0 133 1 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2548,0 142 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2462,0 143 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2484,0 144 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2556,0 145 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2570,0 146 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2160,0 148 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2167,0 149 1 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 1965,0 157 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 15,0 158 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 245,0 159 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2003,0 160 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+GRAPHIC 2003,0 164 0 
+DESIGN morse_ebs2
+VIEW struct.bd
+NO_GRAPHIC 166

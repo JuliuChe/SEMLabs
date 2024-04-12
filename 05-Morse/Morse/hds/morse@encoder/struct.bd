@@ -103,23 +103,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hdl"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds\\morse@encoder\\struct.bd.info"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds\\morse@encoder\\struct.bd.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds\\morse@encoder\\struct.bd.user"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds\\morse@encoder\\struct.bd.user"
 )
 (vvPair
 variable "SourceDir"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds"
 )
 (vvPair
 variable "appl"
@@ -143,27 +143,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds\\morse@encoder"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds\\morse@encoder"
 )
 (vvPair
 variable "d_logical"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds\\morseEncoder"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds\\morseEncoder"
 )
 (vvPair
 variable "date"
-value "28.04.2023"
+value "10.04.2024"
 )
 (vvPair
 variable "day"
-value "ven."
+value "mer."
 )
 (vvPair
 variable "day_long"
-value "vendredi"
+value "mercredi"
 )
 (vvPair
 variable "dd"
-value "28"
+value "10"
 )
 (vvPair
 variable "designName"
@@ -191,11 +191,11 @@ value "struct"
 )
 (vvPair
 variable "graphical_source_author"
-value "axel.amand"
+value "julien.chevalle1"
 )
 (vvPair
 variable "graphical_source_date"
-value "28.04.2023"
+value "10.04.2024"
 )
 (vvPair
 variable "graphical_source_group"
@@ -203,11 +203,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "WE7860"
+value "WE2330802"
 )
 (vvPair
 variable "graphical_source_time"
-value "14:50:20"
+value "13:44:04"
 )
 (vvPair
 variable "group"
@@ -215,7 +215,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "WE7860"
+value "WE2330802"
 )
 (vvPair
 variable "language"
@@ -247,11 +247,11 @@ value "avril"
 )
 (vvPair
 variable "p"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds\\morse@encoder\\struct.bd"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds\\morse@encoder\\struct.bd"
 )
 (vvPair
 variable "p_logical"
-value "C:\\dev\\sem-labs\\05-Morse\\Prefs\\..\\Morse\\hds\\morseEncoder\\struct.bd"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\05-Morse\\Prefs\\..\\Morse\\hds\\morseEncoder\\struct.bd"
 )
 (vvPair
 variable "package_name"
@@ -303,7 +303,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "14:50:20"
+value "13:44:04"
 )
 (vvPair
 variable "unit"
@@ -311,7 +311,7 @@ value "morseEncoder"
 )
 (vvPair
 variable "user"
-value "axel.amand"
+value "julien.chevalle1"
 )
 (vvPair
 variable "version"
@@ -323,11 +323,11 @@ value "struct"
 )
 (vvPair
 variable "year"
-value "2023"
+value "2024"
 )
 (vvPair
 variable "yy"
-value "23"
+value "24"
 )
 ]
 )
@@ -1036,7 +1036,7 @@ text (MLText
 uid 201,0
 va (VaSet
 )
-xt "7000,41400,48600,43800"
+xt "-6000,41600,35600,44000"
 st "dataBitNb      = uartDataBitNb                                 ( positive )  
 baudRateDivide = integer(clockFrequency/uartBaudRate + 0.5)    ( positive )  "
 )
@@ -2999,8 +2999,8 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-8,-8,1928,1048"
-viewArea "-7612,-1603,134949,75855"
+windowSize "0,0,1921,1056"
+viewArea "-7600,-1600,134612,76352"
 cachedDiagramExtent "-7400,0,104400,74000"
 pageSetupInfo (PageSetupInfo
 ptrCmd ""
@@ -3027,7 +3027,7 @@ exportStdPackageRefs 1
 )
 hasePageBreakOrigin 1
 pageBreakOrigin "-6000,0"
-lastUid 1937,0
+lastUid 1978,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
