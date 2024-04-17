@@ -1,0 +1,48 @@
+DESIGN ahb@gpio_tester
+VIEW interface
+NO_GRAPHIC 0
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 13,0 15 1 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 668,0 20 0 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 673,0 21 0 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 683,0 22 0 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 658,0 23 0 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 663,0 24 0 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 678,0 25 0 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 688,0 26 0 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 693,0 27 0 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 698,0 28 0 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 703,0 29 0 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 708,0 30 0 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 1,0 33 0 
+DESIGN ahb@gpio_tester
+VIEW interface
+GRAPHIC 1,0 34 0 
