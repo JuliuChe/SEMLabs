@@ -4149,7 +4149,7 @@ hdsWorkspaceLocation ""
 relativeLibraryRootDir ""
 vmLabelLatestDontAskAgain 0
 vmLabelWorkspaceDontAskAgain 0
-logWindowGeometry "636x406+-823+276"
+logWindowGeometry "1921x1027+-31+11"
 diagramBrowserTabNo 0
 showInsertPortHint 0
 showContentFirstTime 0
@@ -6224,6 +6224,16 @@ declHierarchy [
 ]
 activeViewpointIdx 0
 )
+(WorkTab
+name "AhbLite"
+showingHierarchy 0
+openLibs [
+"AhbLite"
+]
+declHierarchy [
+]
+activeViewpointIdx 0
+)
 ]
 ViewpointsOnOutlookBar [
 ]
@@ -6245,7 +6255,7 @@ yPos 0
 width 1936
 height 1056
 activeSidePanelTab 2
-activeLibraryTab 1
+activeLibraryTab 5
 sidePanelSize 278
 showUnixHiddenFiles 0
 componentBrowserXpos 569

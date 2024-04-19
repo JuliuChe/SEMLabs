@@ -1,0 +1,743 @@
+DESIGN nano@processor
+VIEW struct.bd
+NO_GRAPHIC 0
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 42,0 9 0 
+DESIGN nano@processor
+VIEW struct.bd
+NO_GRAPHIC 12
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 0,0 15 2 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 1,0 18 0 
+DESIGN nano@processor
+VIEW struct.bd
+NO_GRAPHIC 18
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17609,0 24 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17615,0 25 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17603,0 26 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 21553,0 27 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17324,0 28 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17332,0 29 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18221,0 30 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18051,0 31 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17621,0 32 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17300,0 33 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22879,0 34 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17579,0 35 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18213,0 36 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18205,0 37 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17595,0 38 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 19008,0 39 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17308,0 40 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 19800,0 41 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 19804,0 42 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 19000,0 43 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 20017,0 44 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22145,0 45 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18872,0 46 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17292,0 47 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17316,0 48 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18630,0 49 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 20262,0 50 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 19792,0 51 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 19966,0 52 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 19812,0 53 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 19794,0 54 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 20003,0 55 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18288,0 56 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18274,0 57 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 21555,0 58 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17340,0 59 0 
+DESIGN nano@processor
+VIEW struct.bd
+NO_GRAPHIC 60
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18268,0 62 0 
+DESIGN nano@processor
+VIEW struct.bd
+NO_GRAPHIC 64
+LIBRARY NanoBlaze
+DESIGN alu@and@regs
+VIEW struct
+GRAPHIC 22621,0 66 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 14,0 67 1 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 400,0 75 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 405,0 76 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 56,0 77 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 436,0 78 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 51,0 79 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 410,0 80 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 421,0 81 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 494,0 82 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 61,0 83 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 621,0 84 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 426,0 85 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 66,0 86 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 431,0 87 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 530,0 88 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 441,0 89 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 71,0 90 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 463,0 91 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 674,0 92 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 525,0 93 0 
+DESIGN alu@and@regs
+VIEW symbol.sb
+GRAPHIC 446,0 94 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22136,0 97 0 
+DESIGN branch@stack
+VIEW symbol.sb
+GRAPHIC 14,0 98 1 
+DESIGN branch@stack
+VIEW symbol.sb
+GRAPHIC 446,0 103 0 
+DESIGN branch@stack
+VIEW symbol.sb
+GRAPHIC 746,0 104 0 
+DESIGN branch@stack
+VIEW symbol.sb
+GRAPHIC 463,0 105 0 
+DESIGN branch@stack
+VIEW symbol.sb
+GRAPHIC 741,0 106 0 
+DESIGN branch@stack
+VIEW symbol.sb
+GRAPHIC 756,0 107 0 
+DESIGN branch@stack
+VIEW symbol.sb
+GRAPHIC 653,0 108 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22103,0 111 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 14,0 112 1 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 51,0 118 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 66,0 119 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 61,0 120 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 76,0 121 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 91,0 122 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 101,0 123 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 116,0 124 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 136,0 125 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 427,0 126 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 166,0 127 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 56,0 128 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 81,0 129 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 86,0 130 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 96,0 131 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 106,0 132 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 111,0 133 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 121,0 134 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 71,0 135 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 126,0 136 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 326,0 137 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 131,0 138 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 141,0 139 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 146,0 140 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 151,0 141 0 
+DESIGN controller
+VIEW symbol.sb
+GRAPHIC 161,0 142 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22782,0 145 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 14,0 146 1 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 494,0 159 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 400,0 160 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 405,0 161 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 56,0 162 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 664,0 163 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 653,0 164 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 410,0 165 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 669,0 166 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 441,0 167 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 463,0 168 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 71,0 169 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 741,0 170 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 794,0 171 0 
+DESIGN instruction@decoder
+VIEW symbol.sb
+GRAPHIC 895,0 172 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 21353,0 175 0 
+DESIGN program@counter
+VIEW symbol.sb
+GRAPHIC 14,0 176 1 
+DESIGN program@counter
+VIEW symbol.sb
+GRAPHIC 446,0 180 0 
+DESIGN program@counter
+VIEW symbol.sb
+GRAPHIC 746,0 181 0 
+DESIGN program@counter
+VIEW symbol.sb
+GRAPHIC 709,0 182 0 
+DESIGN program@counter
+VIEW symbol.sb
+GRAPHIC 751,0 183 0 
+DESIGN program@counter
+VIEW symbol.sb
+GRAPHIC 756,0 184 0 
+DESIGN program@counter
+VIEW symbol.sb
+GRAPHIC 741,0 185 0 
+DESIGN program@counter
+VIEW symbol.sb
+GRAPHIC 653,0 186 0 
+DESIGN program@counter
+VIEW symbol.sb
+GRAPHIC 463,0 187 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22654,0 190 0 
+DESIGN scratchpad
+VIEW symbol.sb
+GRAPHIC 14,0 191 1 
+DESIGN scratchpad
+VIEW symbol.sb
+GRAPHIC 535,0 196 0 
+DESIGN scratchpad
+VIEW symbol.sb
+GRAPHIC 51,0 197 0 
+DESIGN scratchpad
+VIEW symbol.sb
+GRAPHIC 530,0 198 0 
+DESIGN scratchpad
+VIEW symbol.sb
+GRAPHIC 66,0 199 0 
+DESIGN scratchpad
+VIEW symbol.sb
+GRAPHIC 621,0 200 0 
+DESIGN scratchpad
+VIEW symbol.sb
+GRAPHIC 525,0 201 0 
+LIBRARY NanoBlaze
+DESIGN nano@processor
+VIEW struct.bd
+NO_GRAPHIC 204
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22621,0 207 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22136,0 208 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22103,0 209 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22782,0 210 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 21353,0 211 0 
+DESIGN nano@processor
+VIEW struct.bd
+NO_GRAPHIC 214
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18573,0 217 0 
+DESIGN nano@processor
+VIEW struct.bd
+NO_GRAPHIC 219
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18991,0 220 0 
+DESIGN nano@processor
+VIEW struct.bd
+NO_GRAPHIC 223
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 19974,0 224 0 
+DESIGN nano@processor
+VIEW struct.bd
+NO_GRAPHIC 226
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22854,0 227 0 
+DESIGN nano@processor
+VIEW struct.bd
+NO_GRAPHIC 466
+DESIGN nano@processor
+VIEW struct.bd
+NO_GRAPHIC 467
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22621,0 469 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22628,0 470 1 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17611,0 478 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17617,0 479 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17605,0 480 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17326,0 481 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17356,0 482 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17623,0 483 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17302,0 484 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 19010,0 485 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17310,0 486 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18874,0 487 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17294,0 488 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17348,0 489 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17318,0 490 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18640,0 491 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17334,0 492 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18580,0 493 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 19002,0 494 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 19997,0 495 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18646,0 496 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17342,0 497 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22136,0 499 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22143,0 500 1 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18304,0 505 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22147,0 506 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18268,0 507 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18296,0 508 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18290,0 509 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18276,0 510 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22103,0 512 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22110,0 513 1 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17589,0 519 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17334,0 520 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 16860,0 521 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 16890,0 522 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 16905,0 523 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17581,0 524 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17597,0 525 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 6763,0 526 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 21557,0 527 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17342,0 528 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17326,0 529 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18223,0 530 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17302,0 531 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 16511,0 532 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18215,0 533 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18207,0 534 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17310,0 535 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22147,0 536 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 16421,0 537 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18874,0 538 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17294,0 539 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17318,0 540 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18632,0 541 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18290,0 542 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 16436,0 543 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22782,0 545 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22789,0 546 1 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17866,0 559 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17611,0 560 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17617,0 561 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17605,0 562 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17589,0 563 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18053,0 564 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17623,0 565 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17581,0 566 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17597,0 567 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18565,0 568 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18596,0 569 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18610,0 570 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 19968,0 571 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 21557,0 572 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 21353,0 574 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 21360,0 575 1 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18197,0 579 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18223,0 580 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18053,0 581 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18215,0 582 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18207,0 583 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18189,0 584 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18276,0 585 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 17851,0 586 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22468,0 589 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22654,0 592 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22654,0 596 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 22661,0 597 1 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 20009,0 602 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18622,0 603 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18646,0 604 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18614,0 605 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18632,0 606 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18640,0 607 0 
+DESIGN nano@processor
+VIEW struct.bd
+GRAPHIC 18268,0 612 0 
+DESIGN nano@processor
+VIEW struct.bd
+NO_GRAPHIC 614
