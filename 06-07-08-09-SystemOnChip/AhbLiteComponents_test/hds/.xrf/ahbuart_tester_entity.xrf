@@ -1,0 +1,51 @@
+DESIGN ahb@uart_tester
+VIEW interface
+NO_GRAPHIC 0
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 13,0 15 1 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1269,0 19 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1224,0 20 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1229,0 21 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1239,0 22 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1264,0 23 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1214,0 24 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1219,0 25 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1234,0 26 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1244,0 27 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1249,0 28 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1254,0 29 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1259,0 30 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1,0 33 0 
+DESIGN ahb@uart_tester
+VIEW interface
+GRAPHIC 1,0 34 0 

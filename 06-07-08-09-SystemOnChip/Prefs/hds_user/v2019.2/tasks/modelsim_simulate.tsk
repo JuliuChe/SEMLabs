@@ -46,7 +46,7 @@ settingsMap [
 "GlitchGeneration"
 "1"
 "InitCmd"
-"C:/Users/julien.chevalle1/Documents/SEM/SEMLabs/06-07-08-09-SystemOnChip/Simulation/ahbGpio.do"
+"C:/Users/julien.chevalle1/Documents/SEM/SEMLabs/06-07-08-09-SystemOnChip/Simulation/ahbUart.do"
 "LogFile"
 ""
 "RemoteHost"

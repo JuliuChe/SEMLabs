@@ -6234,6 +6234,16 @@ declHierarchy [
 ]
 activeViewpointIdx 0
 )
+(WorkTab
+name "ieee"
+showingHierarchy 0
+openLibs [
+"ieee"
+]
+declHierarchy [
+]
+activeViewpointIdx 0
+)
 ]
 ViewpointsOnOutlookBar [
 ]

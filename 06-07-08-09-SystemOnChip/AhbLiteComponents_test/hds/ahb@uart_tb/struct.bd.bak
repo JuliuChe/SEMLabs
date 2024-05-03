@@ -116,19 +116,19 @@ value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\06-07-08-09-SystemO
 )
 (vvPair
 variable "date"
-value "01.05.2024"
+value "23.04.2024"
 )
 (vvPair
 variable "day"
-value "mer."
+value "mar."
 )
 (vvPair
 variable "day_long"
-value "mercredi"
+value "mardi"
 )
 (vvPair
 variable "dd"
-value "01"
+value "23"
 )
 (vvPair
 variable "designName"
@@ -160,7 +160,7 @@ value "julien.chevalle1"
 )
 (vvPair
 variable "graphical_source_date"
-value "01.05.2024"
+value "23.04.2024"
 )
 (vvPair
 variable "graphical_source_group"
@@ -172,7 +172,7 @@ value "WE2330802"
 )
 (vvPair
 variable "graphical_source_time"
-value "14:26:47"
+value "11:34:23"
 )
 (vvPair
 variable "group"
@@ -200,7 +200,7 @@ value "$SCRATCH_DIR/AhbLiteComponents_test"
 )
 (vvPair
 variable "mm"
-value "05"
+value "04"
 )
 (vvPair
 variable "module_name"
@@ -208,11 +208,11 @@ value "ahbUart_tb"
 )
 (vvPair
 variable "month"
-value "mai"
+value "avr."
 )
 (vvPair
 variable "month_long"
-value "mai"
+value "avril"
 )
 (vvPair
 variable "p"
@@ -300,7 +300,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "14:26:47"
+value "11:34:23"
 )
 (vvPair
 variable "unit"
@@ -1158,9 +1158,9 @@ uid 13682,0
 va (VaSet
 font "Verdana,12,0"
 )
-xt "89000,48300,94500,49700"
+xt "88000,48300,93500,49700"
 st "hReady"
-blo "89000,49500"
+blo "88000,49500"
 )
 )
 thePort (LogicalPort
@@ -2071,7 +2071,7 @@ tm "BdCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "0,0,1921,1056"
-viewArea "27400,17400,169612,95352"
+viewArea "27400,17400,169612,93000"
 cachedDiagramExtent "0,0,138000,93000"
 pageSetupInfo (PageSetupInfo
 ptrCmd "\\\\SUN\\PREA309_HPLJ3005DN.PRINTERS.SYSTEM.SION.HEVs,winspool,"
@@ -2095,7 +2095,7 @@ boundaryWidth 0
 )
 hasePageBreakOrigin 1
 pageBreakOrigin "29000,19000"
-lastUid 13998,0
+lastUid 13951,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
