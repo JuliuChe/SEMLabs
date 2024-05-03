@@ -406,23 +406,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "C:\\dev\\sem-labs\\10-PipelinedOperators\\Prefs\\..\\Board\\hdl"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\10-PipelinedOperators\\Prefs\\..\\Board\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "C:\\dev\\sem-labs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "C:\\dev\\sem-labs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds\\pipeline@counter_ebs3\\symbol.sb.info"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds\\pipeline@counter_ebs3\\symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "C:\\dev\\sem-labs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds\\pipeline@counter_ebs3\\symbol.sb.user"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds\\pipeline@counter_ebs3\\symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
-value "C:\\dev\\sem-labs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds"
 )
 (vvPair
 variable "appl"
@@ -442,27 +442,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "C:\\dev\\sem-labs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds\\pipeline@counter_ebs3"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds\\pipeline@counter_ebs3"
 )
 (vvPair
 variable "d_logical"
-value "C:\\dev\\sem-labs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds\\pipelineCounter_ebs3"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds\\pipelineCounter_ebs3"
 )
 (vvPair
 variable "date"
-value "08.05.2023"
+value "03.05.2024"
 )
 (vvPair
 variable "day"
-value "lun."
+value "ven."
 )
 (vvPair
 variable "day_long"
-value "lundi"
+value "vendredi"
 )
 (vvPair
 variable "dd"
-value "08"
+value "03"
 )
 (vvPair
 variable "entity_name"
@@ -486,11 +486,11 @@ value "symbol"
 )
 (vvPair
 variable "graphical_source_author"
-value "axel.amand"
+value "julien.chevalle1"
 )
 (vvPair
 variable "graphical_source_date"
-value "08.05.2023"
+value "03.05.2024"
 )
 (vvPair
 variable "graphical_source_group"
@@ -498,11 +498,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "WE7860"
+value "WE2330802"
 )
 (vvPair
 variable "graphical_source_time"
-value "11:16:01"
+value "14:32:31"
 )
 (vvPair
 variable "group"
@@ -510,7 +510,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "WE7860"
+value "WE2330802"
 )
 (vvPair
 variable "language"
@@ -546,11 +546,11 @@ value "mai"
 )
 (vvPair
 variable "p"
-value "C:\\dev\\sem-labs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds\\pipeline@counter_ebs3\\symbol.sb"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds\\pipeline@counter_ebs3\\symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "C:\\dev\\sem-labs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds\\pipelineCounter_ebs3\\symbol.sb"
+value "C:\\Users\\julien.chevalle1\\Documents\\SEM\\SEMLabs\\10-PipelinedOperators\\Prefs\\..\\Board\\hds\\pipelineCounter_ebs3\\symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -578,7 +578,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "11:16:01"
+value "14:32:31"
 )
 (vvPair
 variable "unit"
@@ -586,7 +586,7 @@ value "pipelineCounter_ebs3"
 )
 (vvPair
 variable "user"
-value "axel.amand"
+value "julien.chevalle1"
 )
 (vvPair
 variable "version"
@@ -598,11 +598,11 @@ value "symbol"
 )
 (vvPair
 variable "year"
-value "2023"
+value "2024"
 )
 (vvPair
 variable "yy"
-value "23"
+value "24"
 )
 ]
 )
@@ -795,8 +795,7 @@ font "Courier New,8,0"
 xt "0,12000,14500,14400"
 st "Generic Declarations
 
-counterBitNb positive 16  
-"
+counterBitNb positive 16  "
 )
 header "Generic Declarations"
 showHdrWhenContentsEmpty 1
@@ -1461,6 +1460,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 270,0
+lastUid 293,0
 activeModelName "Symbol:CDM"
 )

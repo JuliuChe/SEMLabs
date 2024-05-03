@@ -20,7 +20,7 @@ PipelinedOperators = $HDS_PROJECT_DIR/../PipelinedOperators/hds
 PipelinedOperators_test = $HDS_PROJECT_DIR/../PipelinedOperators_test/hds
 std = $HDS_HOME/hdl_libs/std/hds
 [hds_settings]
-design_root = Board.pipelineCounter_ebs3(struct)pipeline@counter_ebs3/struct.bd
+design_root = .()
 [library_type]
 ieee = standard
 std = standard

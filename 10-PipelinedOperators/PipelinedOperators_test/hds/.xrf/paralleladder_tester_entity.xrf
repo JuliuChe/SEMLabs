@@ -1,0 +1,30 @@
+DESIGN parallel@adder_tester
+VIEW interface
+NO_GRAPHIC 0
+DESIGN parallel@adder_tester
+VIEW interface
+GRAPHIC 18,0 8 0 
+DESIGN parallel@adder_tester
+VIEW interface
+GRAPHIC 13,0 13 1 
+DESIGN parallel@adder_tester
+VIEW interface
+GRAPHIC 373,0 18 0 
+DESIGN parallel@adder_tester
+VIEW interface
+GRAPHIC 378,0 19 0 
+DESIGN parallel@adder_tester
+VIEW interface
+GRAPHIC 358,0 20 0 
+DESIGN parallel@adder_tester
+VIEW interface
+GRAPHIC 363,0 21 0 
+DESIGN parallel@adder_tester
+VIEW interface
+GRAPHIC 368,0 22 0 
+DESIGN parallel@adder_tester
+VIEW interface
+GRAPHIC 1,0 25 0 
+DESIGN parallel@adder_tester
+VIEW interface
+GRAPHIC 1,0 26 0 

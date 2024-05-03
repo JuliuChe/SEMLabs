@@ -178,7 +178,7 @@ value "WE2330802"
 )
 (vvPair
 variable "graphical_source_time"
-value "15:41:40"
+value "14:02:49"
 )
 (vvPair
 variable "group"
@@ -302,7 +302,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "15:41:40"
+value "14:02:49"
 )
 (vvPair
 variable "unit"
@@ -1601,7 +1601,7 @@ boundaryWidth 0
 )
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 2737,0
+lastUid 2700,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

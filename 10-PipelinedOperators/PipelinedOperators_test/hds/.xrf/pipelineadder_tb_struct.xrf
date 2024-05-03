@@ -1,0 +1,153 @@
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+NO_GRAPHIC 0
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 142,0 9 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+NO_GRAPHIC 12
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 0,0 16 2 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 1,0 19 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+NO_GRAPHIC 19
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2264,0 25 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2256,0 26 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2248,0 27 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2240,0 28 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2232,0 29 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2224,0 30 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2284,0 31 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+NO_GRAPHIC 32
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+NO_GRAPHIC 33
+LIBRARY PipelinedOperators
+DESIGN pipeline@adder
+VIEW no@pipe
+GRAPHIC 2359,0 35 0 
+DESIGN pipeline@adder
+VIEW symbol.sb
+GRAPHIC 14,0 36 1 
+DESIGN pipeline@adder
+VIEW symbol.sb
+GRAPHIC 57,0 41 0 
+DESIGN pipeline@adder
+VIEW symbol.sb
+GRAPHIC 83,0 42 0 
+DESIGN pipeline@adder
+VIEW symbol.sb
+GRAPHIC 89,0 43 0 
+DESIGN pipeline@adder
+VIEW symbol.sb
+GRAPHIC 94,0 44 0 
+DESIGN pipeline@adder
+VIEW symbol.sb
+GRAPHIC 192,0 45 0 
+DESIGN pipeline@adder
+VIEW symbol.sb
+GRAPHIC 199,0 46 0 
+DESIGN pipeline@adder
+VIEW symbol.sb
+GRAPHIC 204,0 47 0 
+LIBRARY PipelinedOperators_test
+DESIGN pipeline@adder_tester
+VIEW test
+GRAPHIC 2178,0 50 0 
+DESIGN pipeline@adder_tester
+VIEW interface
+GRAPHIC 14,0 51 1 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2242,0 57 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2286,0 58 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2266,0 59 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2258,0 60 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2250,0 61 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2234,0 62 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2226,0 63 0 
+LIBRARY PipelinedOperators_test
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+NO_GRAPHIC 66
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2359,0 69 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2178,0 70 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+NO_GRAPHIC 73
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+NO_GRAPHIC 75
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2359,0 77 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2366,0 78 1 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2286,0 83 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2234,0 84 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2226,0 85 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2250,0 86 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2242,0 87 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2266,0 88 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2258,0 89 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2178,0 91 0 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+GRAPHIC 2185,0 92 1 
+DESIGN pipeline@adder_tb
+VIEW struct.bd
+NO_GRAPHIC 107
